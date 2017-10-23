@@ -9,7 +9,8 @@ Sidste gang arbejde vi med "En til Mange" forbidelser i databasen
 
 ## Mange til Mange Forbidelser
 I dag skal vi arbejde med den anden type: en Mange til Mange forbidelse.    
-
+Hvor en Customer kan have mange ordre, men hvor en enkelt Order kun kan have en customer tilknyttet.    
+En order derimod kan indeholde mange produkter, og et produkt kan også være med i mange ordre.    
 
 <img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Mange-mange.png" width="500px" />    
 
