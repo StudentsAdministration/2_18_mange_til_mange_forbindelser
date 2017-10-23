@@ -9,7 +9,7 @@ Sidste gang arbejde vi med "En til Mange" forbidelser i databasen
 
 ## Mange til Mange Forbidelser
 I dag skal vi arbejde med den anden type: en Mange til Mange forbidelse.
-<img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/mange-mange.png" width="300px" />
+<img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Mange-mange.png" width="300px" />
 
 
 
