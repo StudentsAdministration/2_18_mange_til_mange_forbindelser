@@ -27,7 +27,7 @@ Det kunne også være godt at gøre det muligt på Students Details Siden at til
 <table>
 <tr>
 <td><img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Screen%20Shot%202017-10-23%20at%2023.13.53.png" width="400px" /></td>
-<td><img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Screen%20Shot%202017-10-23%20at%2023.13.53.png" width="400px" /></td>
+<td><img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Screen%20Shot%202017-10-23%20at%2023.17.21.png" width="400px" /></td>
 </tr>
 </table>
 
