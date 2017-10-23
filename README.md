@@ -5,7 +5,19 @@ Agenda dag 18 d. 24-10-2017
 Sidste gang arbejde vi med "En til Mange" forbidelser i databasen 
 
 <img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/en-mange.png" width="300px" />
-<img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/en-mange-tabeller.png" width="300px" />
+<img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/en-mange-tabeller.png" width="300px" />    
+
+### Inner Join
+Vi brugte også SQL til at lave forespøgelser i tabellerne.
+
+````   
+  SELECT * FROM order INNER JOIN rcustomers ON order.fk_customer_id = customers.customer_id;
+````   
+Og med WHERE i Stamentet for at vælge mere præcist   
+
+````   
+  SELECT * FROM order INNER JOIN customers ON order.fk_customer_id = customers.customer_id WHERE customers.Customer_id = 1;
+````  
 
 ## Mange til Mange Forbidelser
 I dag skal vi arbejde med den anden type: en Mange til Mange forbidelse.    
