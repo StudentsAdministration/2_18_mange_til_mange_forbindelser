@@ -33,8 +33,16 @@ En order derimod kan indeholde mange produkter, og et produkt kan også være me
 
 Eller som i vil se i dag kan det faktisk ikke lade sig gøre, så derfor kommer ER-Diagrammet til at se sådan ud:    
 
-<img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Mange-mange_2.png"  />    
+<img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Mange-mange_2.png"  />      
 
+### INNER JOIN
+Skal vi bruge SQL til at spørge i databasen kunne det se sådan ud:
 
+````
+  SELECT * FROM relationsshop.order
+  INNER JOIN relationsshop.order_product ON relationsshop.order.order_id = relationsshop.order_product.fk_order
+  INNER JOIN relationsshop.products ON relationsshop.products.product_id = relationsshop.order_product.fk_product
+  INNER JOIN relationsshop.customers ON relationsshop.order.fk_customer_id = relationsshop.customers.customer_id
+````
 
 ## [Øvelse: Tilføj Courses og Enrollment til Studentsadministration]()
