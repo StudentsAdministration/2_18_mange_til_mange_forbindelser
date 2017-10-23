@@ -46,3 +46,7 @@ Skal vi bruge SQL til at spørge i databasen kunne det se sådan ud:
 ````
 
 ## [Øvelse: Tilføj Courses og Enrollment til Studentsadministration]()
+
+# Literatur
+* [Lynda.com Join](https://www.lynda.com/Programming-Foundations-tutorials/Joining-tables/412845/438446-4.html?autoplay=true)
+
