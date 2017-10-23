@@ -45,7 +45,7 @@ Skal vi bruge SQL til at spørge i databasen kunne det se sådan ud:
   INNER JOIN relationsshop.customers ON relationsshop.order.fk_customer_id = relationsshop.customers.customer_id
 ````
 
-## [Øvelse: Tilføj Courses og Enrollment til Studentsadministration]()
+## [Øvelse: Tilføj Courses og Enrollment til Studentsadministration](https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/exercise.md)
 
 # Literatur
 <a href="https://www.lynda.com/Programming-Foundations-tutorials/Joining-tables/412845/438446-4.html?autoplay=true"><img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Screen%20Shot%202017-10-23%20at%2015.56.16.png" width="300px"  />   </a>  
