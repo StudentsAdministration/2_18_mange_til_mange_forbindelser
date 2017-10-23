@@ -17,7 +17,7 @@ En order derimod kan indeholde mange produkter, og et produkt kan også være me
 
 Eller som i vil se i dag kan det faktisk ikke lade sig gøre, så derfor kommer ER-Diagrammet til at se sådan ud:    
 
-<img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Mange-mange_2.png"  />    
+<img src="https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/img/Mange-mange-2.png"  />    
 
 
 
