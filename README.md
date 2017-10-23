@@ -1,5 +1,7 @@
 # Dag 18 Mange til mange forbindelser
-Agenda dag 18 d. 24-10-2017
+Agenda dag 18 d. 24-10-2017    
+
+## Databasen vi arbejdede med sidste gang og bruger i dag kan i finde [her](https://github.com/dat17v1/2_18_mange_til_mange_forbindelser/blob/master/shop.sql)
 
 ## En til Mange forbidelser
 Sidste gang arbejde vi med "En til Mange" forbidelser i databasen 
@@ -18,6 +20,8 @@ Og med WHERE i Stamentet for at vælge mere præcist
 ````   
   SELECT * FROM order INNER JOIN customers ON order.fk_customer_id = customers.customer_id WHERE customers.Customer_id = 1;
 ````  
+
+
 
 ## Mange til Mange Forbidelser
 I dag skal vi arbejde med den anden type: en Mange til Mange forbidelse.    
